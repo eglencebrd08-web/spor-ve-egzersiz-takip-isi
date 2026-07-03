@@ -1,0 +1,6 @@
+{
+  "name": "Spor ve Egzersiz Takipçisi",
+  "description": "Kişiselleştirilmiş yapay zeka destekli egzersiz planlayıcısı, antrenman takipçisi, kalori ve su takip günlüğü sunan kapsamlı spor uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
